@@ -1,2 +1,2 @@
 # gitremote_repo
-initial message
+change from the local repository
