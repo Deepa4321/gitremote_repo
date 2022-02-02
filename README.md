@@ -7,3 +7,4 @@ change to remote
 change 2 from remote 
 changes made
 changed to check fetch
+changes made to merge
